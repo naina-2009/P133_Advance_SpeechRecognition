@@ -1,0 +1,33 @@
+body
+{
+	text-align: center;
+	background: linear-gradient(yellow, green, darkgreen);
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: white;
+	border-radius: 20px;
+}
+h3
+{
+	font-family: Garamond;
+	font-size: 40px;
+	color: black;
+	font-weight: bold;
+}
+button
+{
+	background: linear-gradient(red, maroon, brown) !important;
+	font-family: Calibri;
+	font-size: 20px !important;
+}
+#status
+{
+	font-size: 14px;
+	color: black;
+}
